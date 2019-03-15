@@ -1,4 +1,5 @@
-# Themes for JetBrains (IntelliJ, WebStorm, CLion, ...)
+# 🎨 Themes for JetBrains (IntelliJ, WebStorm, CLion, ...)
+Links to the uploaded plugins will follow soon.
 
 ## 🌌 Dark Themes
 ### Night Owl
@@ -17,11 +18,11 @@
 ![Subliminal](./screenshots/subliminal.png)
 
 ### Cobalt
-![Subliminal](./screenshots/cobalt.png)
+![Cobalt](./screenshots/cobalt.png)
 
 
 ## ☀️ Light Themes
 
-### Cobalt
+### Material Theme: Lighter
 ![Material Theme: Lighter](./screenshots/material-theme-lighter.png)
 
