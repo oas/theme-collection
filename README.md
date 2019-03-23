@@ -27,6 +27,9 @@ https://plugins.jetbrains.com/plugin/12145-theme-sublime
 ![Subliminal](./screenshots/subliminal.png)
 
 ### Cobalt
+#### Download
+https://plugins.jetbrains.com/plugin/12147-theme-cobalt
+#### Screenshot
 ![Cobalt](./screenshots/cobalt.png)
 
 
