@@ -3,6 +3,9 @@ Links to the uploaded plugins will follow soon.
 
 ## 🌌 Dark Themes
 ### Night Owl
+#### Download
+https://plugins.jetbrains.com/plugin/12146-theme-night-owl
+#### Screenshot
 ![Night Owl](./screenshots/night-owl.png)
 
 ### Material Theme: Default
@@ -12,9 +15,15 @@ Links to the uploaded plugins will follow soon.
 ![Material Theme: Night](./screenshots/material-theme-night.png)
 
 ### Material Theme: Ocean
+#### Download
+https://plugins.jetbrains.com/plugin/12143-material-theme-ocean
+#### Screenshot
 ![Material Theme: Ocean](./screenshots/material-theme-ocean.png)
 
-### Subliminal
+### Sublime
+#### Download
+https://plugins.jetbrains.com/plugin/12145-theme-sublime
+#### Screenshot
 ![Subliminal](./screenshots/subliminal.png)
 
 ### Cobalt
@@ -24,5 +33,8 @@ Links to the uploaded plugins will follow soon.
 ## ☀️ Light Themes
 
 ### Material Theme: Lighter
+#### Download
+https://plugins.jetbrains.com/plugin/12144-material-theme-lighter
+#### Screenshot
 ![Material Theme: Lighter](./screenshots/material-theme-lighter.png)
 
