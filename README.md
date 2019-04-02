@@ -1,11 +1,13 @@
 # 🎨 Themes for JetBrains (IntelliJ, WebStorm, CLion, ...)
-Links to the uploaded plugins will follow soon.
+
+At the moment, we only use some of the color properties of the original theme. This will be fixed in future versions!
+
+![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/d/12152-theme-collection.svg?style=for-the-badge)
+![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/12152-theme-collection.svg?style=for-the-badge)
 
 ## 🌌 Dark Themes
 ### Night Owl
 #### Download
-https://plugins.jetbrains.com/plugin/12146-theme-night-owl
-#### Screenshot
 ![Night Owl](./screenshots/night-owl.png)
 
 ### Material Theme: Default
@@ -15,29 +17,26 @@ https://plugins.jetbrains.com/plugin/12146-theme-night-owl
 ![Material Theme: Night](./screenshots/material-theme-night.png)
 
 ### Material Theme: Ocean
-#### Download
-https://plugins.jetbrains.com/plugin/12143-material-theme-ocean
-#### Screenshot
 ![Material Theme: Ocean](./screenshots/material-theme-ocean.png)
 
 ### Sublime
-#### Download
-https://plugins.jetbrains.com/plugin/12145-theme-sublime
-#### Screenshot
 ![Subliminal](./screenshots/subliminal.png)
 
 ### Cobalt
-#### Download
-https://plugins.jetbrains.com/plugin/12147-theme-cobalt
-#### Screenshot
 ![Cobalt](./screenshots/cobalt.png)
 
-
 ## ☀️ Light Themes
-
 ### Material Theme: Lighter
-#### Download
-https://plugins.jetbrains.com/plugin/12144-material-theme-lighter
 #### Screenshot
 ![Material Theme: Lighter](./screenshots/material-theme-lighter.png)
+
+## Credits
+The color properties were used from the following themes for Visual Studio Code. Thank you very much!
+
+|Repository|License|
+|---|---|
+|https://github.com/sdras/night-owl-vscode-theme|MIT|
+|https://github.com/equinusocio/vsc-material-theme|Apache 2.0|
+|https://github.com/gaearon/subliminal|MIT|
+|https://github.com/wesbos/cobalt2-vscode|MIT|
 
