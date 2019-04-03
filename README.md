@@ -2,8 +2,8 @@
 
 At the moment, we only use some of the color properties of the original theme. This will be fixed in future versions!
 
-![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/d/12152-theme-collection.svg?style=for-the-badge)
-![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/12152-theme-collection.svg?style=for-the-badge)
+[![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/d/12152-theme-collection.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/12152-theme-collection)
+[![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/12152-theme-collection.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/12152-theme-collection)
 
 ## 🌌 Dark Themes
 ### Night Owl
